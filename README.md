@@ -10,10 +10,10 @@
 
 ### 🤖 About Me:
 
-I'm a Mechanical Engineering (ME) student at BUET, diving deep into the realms of AI/ML and Data Science. With a toolkit brimming with TensorFlow, Keras, and SciKit-Learn, and a burgeoning interest in PyTorch, I'm on a relentless pursuit of innovation and problem-solving through technology.
+I'm a fresh graduate (in ME) from BUET, diving deep into AI/ML and Data Science. With a toolkit brimming with TensorFlow, Keras, and SciKit-Learn, and a burgeoning interest in PyTorch, I'm on a relentless pursuit of innovation and problem-solving through technology. I'm also interested in building awesome web applications with the help of tools like NextJS and Django and I'm quite skillful when it comes to integrating useful APIs to my web applications as per needs. ;)
 
-- 🔭 I’m currently working on **Deep Learning projects** with TensorFlow and Keras.
-- 🌱 I’m currently learning **advanced techniques in Deep Learning** and exploring **PyTorch**.
+- 🔭 I’m currently working on **Deep Learning projects** with PyTorch.
+- 🌱 I’m currently learning **advanced techniques in Deep Learning**.
 - 💬 Ask me about **AI, Machine Learning**.
 - 📫 How to reach me: **saidurr13@gmail.com**
 
