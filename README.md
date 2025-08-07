@@ -2,7 +2,7 @@
 <h3 align="center">ML Engineer | Python Developer | BUET Grad</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mdsaidurrahmanpulok/">
+  <a href="https://www.linkedin.com/in/saidurpulok/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:saidurr13@gmail.com">
