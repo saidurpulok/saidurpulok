@@ -1,41 +1,55 @@
-<h1 align="center">Hi there, I'm Pulok 👋</h1>
-<h3 align="center">A passionate AI/ML Developer from BUET</h3>
+<h1 align="center">Hey, I'm Pulok 👋</h1>
+<h3 align="center">ML Engineer | Python Developer | BUET Grad</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mdsaidurrahmanpulok/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:saidurr13@gmail.com"><img src="https://img.shields.io/badge/-Email-%23EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mdsaidurrahmanpulok/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saidurr13@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### 🤖 About Me:
+### 🧠 About Me
 
-I'm a fresh graduate (in ME) from BUET, diving deep into AI/ML and Data Science. With a toolkit brimming with TensorFlow, Keras, and SciKit-Learn, and a burgeoning interest in PyTorch, I'm on a relentless pursuit of innovation and problem-solving through technology. I'm also interested in building awesome web applications with the help of tools like NextJS and Django and I'm quite skillful when it comes to integrating useful APIs to my web applications as per needs. ;)
+I'm a BUET ME graduate working as an **ML Engineer at ACI Limited**. Previously, I was a **Junior Software Engineer at Brick Line Technology Ltd**, where I focused on backend development using Python, FastAPI, and AWS services, with occasional frontend work using Vue.
 
-- 🔭 I’m currently working on **Deep Learning projects** with PyTorch.
-- 🌱 I’m currently learning **advanced techniques in Deep Learning**.
-- 💬 Ask me about **AI, Machine Learning**.
-- 📫 How to reach me: **saidurr13@gmail.com**
+I enjoy solving real-world problems with machine learning, building scalable backend systems, and occasionally crafting sleek UIs.
 
-### 💻 Tech Stack:
+---
 
-![Python](https://img.shields.io/badge/-Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
-![SciKit-Learn](https://img.shields.io/badge/-SciKit_Learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+### 🔧 Tech Stack
 
-### 📈 GitHub Stats:
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saidurpulok&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidurpulok&exclude_repo=github-readme-stats,saidurpulok.github.io&hide_border=true&layout=compact&langs_count=8"/>
+**AI/ML:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Cloud & Tools:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FE6F00?style=flat)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saidurpulok&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidurpulok&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ---
 
-<h3 align="center">Let's connect and innovate together! 🚀</h3>
+<h3 align="center">Let’s build something cool 🚀</h3>
