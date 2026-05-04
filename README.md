@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-I'm a BUET ME graduate working as an **ML Engineer at ACI Limited**. Previously, I was a **Junior Software Engineer at Brick Line Technology Ltd**, where I focused on backend development using Python, FastAPI, and AWS services, with occasional frontend work using Vue.
+I'm employed as a **Machine Learning Engineer I at Optimizely**. Previously, I worked as a **Machine Learning Engineer at ACI PLC** and as a **Junior Software Engineer at Brick Line Technology Ltd**. I completed my undergrad at **BUET**, majoring in **ME**.
 
 I enjoy solving real-world problems with machine learning, building scalable backend systems, and occasionally crafting sleek UIs.
 
