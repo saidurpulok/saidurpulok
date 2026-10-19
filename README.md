@@ -1,12 +1,15 @@
 <h1 align="center">Hey, I'm Pulok 👋</h1>
-<h3 align="center">ML Engineer | Python Developer | BUET Grad</h3>
+<h3 align="center">Machine Learning Engineer · LLM systems, inference & production ML</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saidurpulok/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:saidurr13@gmail.com">
+  <a href="mailto:saidur.pulok@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://saidurpulok.github.io">
+    <img src="https://img.shields.io/badge/-Website-%23000000.svg?style=flat&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
@@ -14,32 +17,48 @@
 
 ### 🧠 About Me
 
-I'm employed as a **Machine Learning Engineer I at Optimizely**. Previously, I worked as a **Machine Learning Engineer at ACI PLC** and as a **Junior Software Engineer at Brick Line Technology Ltd**. I completed my undergrad at **BUET**, majoring in **ME**.
+I'm a **Machine Learning Engineer at Optimizely**, working across LLM fine-tuning and evaluation, data pipelines, and production ML on Kubernetes. Before that I built real-time computer vision and RAG systems at **ACI PLC**, and backend services at **Brick Line Technology**.
 
-I enjoy solving real-world problems with machine learning, building scalable backend systems, and occasionally crafting sleek UIs.
+Outside work I build LLM systems from the ground up, mostly around **efficient inference and serving** and **inference-time compute**.
+
+---
+
+### 🚀 Featured Projects
+
+- **[AxiomServe](https://github.com/saidurpulok/axiomserve)**: an LLM serving runtime built from scratch, with batched prefill, manual decode, KV-cache reuse, continuous batching, request scheduling and streaming. Continuous batching cut p95 time-to-first-token to 119 ms, down from 503 ms with static batching.
+- **[VeriSearch](https://github.com/saidurpulok/verisearch)**: verifier-guided LLM reasoning under fixed token budgets. Adaptive early stopping used 35% fewer tokens than full reranking at about 1 point lower accuracy.
 
 ---
 
 ### 🔧 Tech Stack
 
-**Languages & Frameworks:**  
+**Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-**AI/ML:**  
+**ML / LLM:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 
-**Cloud & Tools:**  
+**Backend & Data:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+
+**Cloud & Infra:**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
-![EventBridge](https://img.shields.io/badge/EventBridge-FE6F00?style=flat)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
@@ -49,7 +68,3 @@ I enjoy solving real-world problems with machine learning, building scalable bac
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saidurpulok&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidurpulok&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
----
-
-<h3 align="center">Let’s build something cool 🚀</h3>
