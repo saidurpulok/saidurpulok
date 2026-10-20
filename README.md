@@ -21,13 +21,14 @@ I'm a **Machine Learning Engineer at Optimizely**, working on LLM evaluation and
 
 Before that I built backend services for [**Zeda**](https://zeda.ai), a US clinical trial management system used by several US clinics, at **Brick Line Technology**, and shipped [**AgroGPT**](https://agrogpt.app), a RAG platform for precision agriculture, and a face-recognition attendance system at **ACI PLC**.
 
-Outside work I build LLM systems from the ground up, mostly around **efficient inference and serving** and **inference-time compute**.
+Outside work I build and measure LLM systems from the ground up, mostly around **efficient inference and serving**, **model routing** and **inference-time compute**.
 
 ---
 
 ### 🚀 Featured Projects
 
 - **[AxiomServe](https://github.com/saidurpulok/axiomserve)**: an LLM serving runtime built from scratch, with batched prefill, manual decode, KV-cache reuse, continuous batching, request scheduling and streaming. Continuous batching cut p95 time-to-first-token to 119 ms, down from 503 ms with static batching.
+- **[routewise](https://github.com/saidurpulok/routewise)**: a cost-vs-accuracy study of LLM routing on real HELM results for 22 models from 2024 and 2025. At equal accuracy, routing cost 48% less than the best cheap 2024 model and 25% less than the best 2025 model, and beat every single model on accuracy.
 - **[VeriSearch](https://github.com/saidurpulok/verisearch)**: verifier-guided LLM reasoning under fixed token budgets. Adaptive early stopping used 35% fewer tokens than full reranking at about 1 point lower accuracy.
 
 ---
