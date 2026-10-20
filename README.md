@@ -19,7 +19,7 @@
 
 I'm a **Machine Learning Engineer at Optimizely**, working on LLM evaluation and routing, fine-tuning (QLoRA), and production ML pipelines on Argo Workflows and EKS. Recent work includes a benchmark of Optimizely's AI desktop app, **Mark (formerly Opal)**, against third-party AI tools, and an on-device LiteLLM routing proxy that sends each request to a model sized for the task.
 
-Before that I shipped [**AgroGPT**](https://agrogpt.app), a RAG platform for precision agriculture, and a face-recognition attendance system at **ACI PLC**, and built backend services for [**Zeda**](https://zeda.ai), a US clinical trial management system, at **Brick Line Technology**.
+Before that I built backend services for [**Zeda**](https://zeda.ai), a US clinical trial management system used by several US clinics, at **Brick Line Technology**, and shipped [**AgroGPT**](https://agrogpt.app), a RAG platform for precision agriculture, and a face-recognition attendance system at **ACI PLC**.
 
 Outside work I build LLM systems from the ground up, mostly around **efficient inference and serving** and **inference-time compute**.
 
